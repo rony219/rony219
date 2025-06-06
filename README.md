@@ -7,11 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/diganta_bc" target="blank"><img src="https://img.shields.io/twitter/follow/diganta_bc?logo=twitter&style=for-the-badge" alt="diganta_bc" /></a> </p>
 
-- 🔭 I’m currently working on **Machine learning based project**
-
-- 🌱 I’m currently learning **Machine learning, Deep learning**
-
-- 💬 Ask me about **Anything about Machine learning**
+- 💬 About myself **I'm Promise Nandi, a Data Science student passionate about transforming ideas into intelligent systems. With skills in Python, Java, Machine Learning, and Web Development, I thrive at the intersection of data and design, currently working on real-world ML projects and building interactive websites.**
 
 - 📫 How to reach me **Dig1nt1@proton.me**
 
