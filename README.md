@@ -1,5 +1,5 @@
 ![MasterHead](https://i.pinimg.com/736x/e9/31/b0/e931b043748ce035ccbde0273e5ca3dd.jpg)
-<h1 align="center">Hi 👋, I'm Diganta Sarkar</h1>
+<h1 align="center">Hi 👋, I'm Promise Nandi</h1>
 <h3 align="center">Shaping the Future of Finance and Technology with Innovation and Strategy</h3>
 
 
