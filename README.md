@@ -5,21 +5,20 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dig1nt1&label=Profile%20views&color=0e75b6&style=flat" alt="dig1nt1" /> </p>
 
-<p align="left"> <a href="https://twitter.com/diganta_bc" target="blank"><img src="https://img.shields.io/twitter/follow/diganta_bc?logo=twitter&style=for-the-badge" alt="diganta_bc" /></a> </p>
+
 
 - 💬 About myself - **I'm Promise Nandi, a Data Science student passionate about transforming ideas into intelligent systems. With skills in Python, Java, Machine Learning, and Web Development, I thrive at the intersection of data and design, currently working on real-world ML projects and building interactive websites.**
 
-- 📫 How to reach me **Dig1nt1@proton.me**
+- 📫 How to reach me **promisenandi7@gmail.com**
 
 - ⚡ Fun fact **I can drink an entire cup of coffee and still fall asleep in 10 minutes.**
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/diganta_bc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="diganta_bc" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dig1nt1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dig1nt1" height="30" width="40" /></a>
+<a href="(https://www.linkedin.com/in/promise-nandi-6101b0326/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dig1nt1" height="30" width="40" /></a>
 <a href="https://instagram.com/desperate_eennuuff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="desperate_eennuuff" height="30" width="40" /></a>
-  <a href="https://dribbble.com/dig1nt1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="dig1nt1" height="30" width="40" /></a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
