@@ -1,7 +1,7 @@
-![MasterHead](https://i.pinimg.com/736x/e9/31/b0/e931b043748ce035ccbde0273e5ca3dd.jpg)
+![Success___](https://github.com/user-attachments/assets/0ad5df0f-0943-4b79-ba5e-bab64412f2e3)
 <h1 align="center">Hi 👋, I'm Promise Nandi</h1>
 <h3 align="center">📊 Learning by Building | Data Science Projects | ML | AI | Python | Open to Collaborate</h3>
-![Success___](https://github.com/user-attachments/assets/0ad5df0f-0943-4b79-ba5e-bab64412f2e3)
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dig1nt1&label=Profile%20views&color=0e75b6&style=flat" alt="dig1nt1" /> </p>
