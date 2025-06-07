@@ -16,8 +16,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="(https://www.linkedin.com/in/promise-nandi-6101b0326/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dig1nt1" height="30" width="40" /></a>
-<a href="https://instagram.com/desperate_eennuuff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="desperate_eennuuff" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/promise-nandi-6101b0326/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dig1nt1" height="30" width="40" /></a>
+<a href="https://www.instagram.com/promise_9877?igsh=MWgzYnh1ODl1cm5rdw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="desperate_eennuuff" height="30" width="40" /></a>
   
 </p>
 
