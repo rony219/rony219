@@ -1,6 +1,6 @@
 ![Success___](https://github.com/user-attachments/assets/0ad5df0f-0943-4b79-ba5e-bab64412f2e3)
 <h1 align="center">Hi 👋, I'm Promise Nandi</h1>
-<h3 align="center">📊 Learning by Building | Data Science Projects | ML | AI | Python | Open to Collaborate</h3>
+<h3 align="center">📊 Learning by Building | Data Science Projects | ML | AI | Python | MERN | Open to Collaborate</h3>
 
 
 
