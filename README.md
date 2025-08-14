@@ -1,10 +1,10 @@
-![Success___](https://github.com/user-attachments/assets/0ad5df0f-0943-4b79-ba5e-bab64412f2e3)
+![Success___](https://payload-cms.code-b.dev/media/Difference%20between%20a%20Full%20Stack%20Developer%20and%20a%20Software%20Engineer-7.gif)
 <h1 align="center">Hi 👋, I'm Promise Nandi</h1>
 <h3 align="center">📊 Learning by Building | Data Science Projects | ML | AI | Python | MERN | Open to Collaborate</h3>
 
 
 
-<p align="left"> <img src="https://blog.hyperiondev.com/wp-content/uploads/2018/10/Blog-Gif.gif" alt="dig1nt1" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dig1nt1&label=Profile%20views&color=0e75b6&style=flat" alt="dig1nt1" /> </p>
 
 
 
