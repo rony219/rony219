@@ -4,7 +4,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dig1nt1&label=Profile%20views&color=0e75b6&style=flat" alt="dig1nt1" /> </p>
+<p align="left"> <img src="https://blog.hyperiondev.com/wp-content/uploads/2018/10/Blog-Gif.gif" alt="dig1nt1" /> </p>
 
 
 
